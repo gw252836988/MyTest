@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  MyTest
 //
 //  Created by 新城集团 on 16-9-18.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface MainViewController : UIViewController
 
 @end
